@@ -3,9 +3,12 @@ The repository aims to run the Generative AI models in a simple react-native app
 
 There are various players in the space:
 [ ] MLC.ai - https://llm.mlc.ai/docs/deploy/android.html https://llm.mlc.ai/docs/deploy/ios.html
+
 [ ] Executorch - [Android Example with C API](https://github.com/microsoft/onnxruntime-inference-examples/tree/main/mobile/examples/phi-3/android)
-[ ] llm.c
-[ ] llamma.cpp
+
+[ ] [llm.c]([url](https://github.com/karpathy/llm.c))
+
+[ ] [llamma.cpp]([url](https://github.com/ggerganov/llama.cpp))
 
 ## v0.1 Creating a react-native project that can cal C / C++ API using local modules
 Setup the scaffolding to call a hello world function in a compiled c program.
