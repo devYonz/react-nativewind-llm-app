@@ -1,0 +1,18 @@
+{
+  "name": "react-native-onnx-llm",
+  "version": "0.0.0",
+  "description": "Run llamma-3 or phi3 in react-native",
+  "main": "src/index",
+  "codegenConfig": {
+    "name": "RNOnnxLlmSpec",
+    "type": "modules",
+    "jsSrcsDir": "src"
+  },
+  "author": " <> ()",
+  "keywords": [
+    "react-native",
+    "local-llm"
+  ],
+  "license": "MIT",
+  "homepage": "#readme"
+}

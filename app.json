@@ -16,6 +16,9 @@
       ]
     ],
     "name": "react-nativewind-llm-app",
-    "slug": "react-nativewind-llm-app"
+    "slug": "react-nativewind-llm-app",
+    "ios": {
+      "bundleIdentifier": "com.devYonz.react-nativewind-llm-app"
+    }
   }
 }
